@@ -1,0 +1,25 @@
+----Formatting  Tags:-------
+
+ 1.<i> -- It is a italic text move right side of text
+ 2.<b> --- text are bold 
+ 3.<strong>  -- same work look wise b tag and strong tag  but      strong are show important text
+ 4.<mark>  -- Text is highlight
+ 5.<del>  del stand form deleted price 
+ 6.<ins>  ins stand form insert price
+ 7.<sup> sup stand form super scripts it is work math power type   use 
+ 8.<sub> sub stand form sub scripts it is work chemistry formula type use
+
+
+----------------------------------------------------------------- -   Void Element
+ 1.hr --Horizental line 
+ 2.br -- line break
+
+
+-----------------------------------------------------------------
+  List :-
+    1.ol    order list
+       type:- Roman count
+              
+     
+    2.ul
+    3.dl

@@ -1,0 +1,10 @@
+React Installation commond=>
+         npm create-react-app     //old installation 
+
+     Vite ->
+         npm i vite@latest         //new installation 
+
+
+
+
+         
